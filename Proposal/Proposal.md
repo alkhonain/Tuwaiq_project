@@ -14,7 +14,7 @@ The project contain dataset from The Centers for Medicare & Medicaid Services (C
 
 # Data Description:
 ### What dataset(s) do you plan to use, and how will you obtain the data?
-The data that i plan to use is [Complications and Deaths](project/project_dataset.csv) and it's hospital results for surgical complications and mortality
+The data that i plan to use is [Complications and Deaths](https://github.com/alkhonain/Tuwaiq_project_one/blob/main/project/project_dataset.csv) and it's hospital results for surgical complications and mortality
 measures, and i obtain to get it from the CMS dataset website.
 ### What is an individual sample/unit of analysis in this project? What characteristics/features do you expect to work with?
 the dataset contain 92455 rows and 18 column that specify the Facility, city and its State and for each Facility there are 19 meatures such as the hip/knee complication measure, the CMS Patient Safety Indicators, and 30-day death rates.

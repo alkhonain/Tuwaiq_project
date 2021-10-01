@@ -19,6 +19,8 @@ measures, and i obtain to get it from the CMS dataset website.
 ### What is an individual sample/unit of analysis in this project? What characteristics/features do you expect to work with?
 the dataset contain 92455 rows and 18 column that specify the Facility, city and its State and for each Facility there are 19 meatures such as the hip/knee complication measure, the CMS Patient Safety Indicators, and 30-day death rates.
 
+* a sample of dataset:
+
 | Facility ID | Facility Name | City | State | Measure ID | Measure Name | Compared to National | Denominator | Score | LowerEstimate	| HigherEstimate | Start Date |	End Date |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |  ------------- | ------------- |
 | 10001	| SOUTHEAST HEALTH MEDICAL CENTER	| DOTHAN	| AL | COMP_HIP_KNEE |	Rate of complications for hip/knee replacement patients |	No Different Than the National Rate	| 175	| 2.6	| 1.6 |	4.3	|	4/1/2017	| 10/2/2019 |

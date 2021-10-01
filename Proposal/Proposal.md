@@ -1,18 +1,22 @@
-### Project Proposal Template
-Before you start project work for a course, you should be able to complete the following proposal template, addressing the questions listed as completely as possible. However, keep in mind that throughout the design iterations of your project, many parts of it will likely change (i.e. increase/decrease in number of samples, types of features or algorithm used, etc), so this is just a starting point. Also, if you are unsure in some areas, you should still submit a partial proposal to receive feedback from instructors.
+### Project Proposal 
 
-In addition to submitting this plan, you may discuss the areas below with an instructor in a scope meeting.
 
-###Question/need:
+
+
+### Question/need:
 * What is the framing question of your analysis, or the purpose of the model/system you plan to build?
+  # forcastting the values of the next two years for Denominator and Score for each Facility and its Measure
+  # calculate the mean of Denominator and Score for each Measure and compare it to national 
+  # obtaining the highest and lowest of the measures and what are the facilities that took the highest and the lowest
 * Who benefits from exploring this question or building this model/system?
+  # each one of these facilities can get benefits with this system by check the prediction the next years and how much would they expect to have and the scores of each measure.
 
-###Data Description:
+### Data Description:
 * What dataset(s) do you plan to use, and how will you obtain the data?
 * What is an individual sample/unit of analysis in this project? What characteristics/features do you expect to work with?
 * If modeling, what will you predict as your target?
 
-###Tools:
+### Tools:
 * How do you intend to meet the tools requirement of the project?
 * Are you planning in advance to need or use additional tools beyond those required?
 

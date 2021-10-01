@@ -11,10 +11,10 @@ The project contain dataset from The Centers for Medicare & Medicaid Services (C
 ### Who benefits from exploring this question or building this model/system?
   * facilities, each one of these facilities can get benefits with this model by check the prediction the next years and how much would they expect to have and the scores of each measure.
   * Dactors, any dactor can get benefits from this model by knwing the persentages of the mesaures.
-  * patients, some meatuers can help the patients, when the patient knows the rate he will try get better or stay
+
 # Data Description:
 ### What dataset(s) do you plan to use, and how will you obtain the data?
-The data that i plan to use is Complications and Deaths and it's hospital results for surgical complications and mortality
+The data that i plan to use is [Complications and Deaths](project/project_dataset.csv) and it's hospital results for surgical complications and mortality
 measures, and i obtain to get it from the CMS dataset website.
 ### What is an individual sample/unit of analysis in this project? What characteristics/features do you expect to work with?
 the dataset contain 92455 rows and 18 column that specify the Facility, city and its State and for each Facility there are 19 meatures such as the hip/knee complication measure, the CMS Patient Safety Indicators, and 30-day death rates.

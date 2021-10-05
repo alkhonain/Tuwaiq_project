@@ -1,37 +1,37 @@
 # Project Proposal 
-The project contain dataset from The Centers for Medicare & Medicaid Services (CMS), is the agency within the U.S. Department of Health and Human Services (HHS).
+This data set contains booking information for a city hotel and a resort hotel, and includes information such as when the booking was made, length of stay, the number of adults, children, and/or babies, and the number of available parking spaces, among other things.
 
 
 
 # Question/need:
 ### What is the framing question of your analysis, or the purpose of the model/system you plan to build?
-  * forcastting the values of the next two years for Denominator and Score for each Facility and its Measure
-  * calculate the mean of Denominator and Score for each Measure and compare it to national 
-  * obtaining the highest and lowest of the measures and what are the facilities that took the highest and the lowest
+  * forecasting with the book is cancelled or not depending on the data. 
+  * understanding the customer book and give status of each grope deponding the country.
+  
+  
 ### Who benefits from exploring this question or building this model/system?
-  * facilities, each one of these facilities can get benefits with this model by check the prediction the next years and how much would they expect to have and the scores of each measure.
-  * Dactors, any dactor can get benefits from this model by knwing the persentages of the mesaures.
+  * the hotailes and booking company since they can figure the best choses they can get.
+
 
 # Data Description:
 ### What dataset(s) do you plan to use, and how will you obtain the data?
-The data that i plan to use is [Complications and Deaths](https://github.com/alkhonain/Tuwaiq_project_one/blob/main/project/project_dataset.csv) and it's hospital results for surgical complications and mortality
-measures, and i obtain to get it from the CMS dataset website.
+The data that i plan to use is [Hotel booking demand](https://github.com/alkhonain/Tuwaiq_project_one/blob/main/project/project_dataset.csv) and it's date set that contain 119390 rows and 32 columns and i believe that it's will decrease when i clean the data.
 ### What is an individual sample/unit of analysis in this project? What characteristics/features do you expect to work with?
-the dataset contain 92455 rows and 18 column that specify the Facility, city and its State and for each Facility there are 19 meatures such as the hip/knee complication measure, the CMS Patient Safety Indicators, and 30-day death rates.
+below is table containing sample of the 32 column, there are multiple columns that i don't thing will help me. i also know what each column data possible values that there are any outliers that need to get an action.
 
-* a sample of dataset:
+* a sample of data set:
 
-| Facility ID | Facility Name | City | State | Measure ID | Measure Name | Compared to National | Denominator | Score | LowerEstimate	| HigherEstimate | Start Date |	End Date |
+| hotel |	is_canceled	| lead_time | arrival_date_year |	arrival_date_month |	arrival_date_day_of_month |	stays_in_weekend_nights	| stays_in_week_nights	| adults	|	days_in_waiting_list | required_car_parking_spaces |	total_of_special_requests	 | reservation_status |	reservation_status_date |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |  ------------- | ------------- |
-| 10001	| SOUTHEAST HEALTH MEDICAL CENTER	| DOTHAN	| AL | COMP_HIP_KNEE |	Rate of complications for hip/knee replacement patients |	No Different Than the National Rate	| 175	| 2.6	| 1.6 |	4.3	|	4/1/2017	| 10/2/2019 |
+| Resort Hotel	| 0	| 12	| 2015 | July |	3 |	0	| 1	| 2	| 0 |	0	|	Check-Out	| 2015-07-04 |
 
 ### If modeling, what will you predict as your target?
-the predict target will be the Denominator and Score.
+the predict target will be the is_canceled.
 
 # Tools:
 ### How do you intend to meet the tools requirement of the project?
 answering the above question will need some tools, like python libraries such as pandas, numpy and matplotlib, and using algorithms to do the prediction.
 ### Are you planning in advance to need or use additional tools beyond those required?
-yes, i might use power bi tools to create a dashboard that view the data.
+yes, i might use power bi tool to create a dashboard that view the data.
 
 

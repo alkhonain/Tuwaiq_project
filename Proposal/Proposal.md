@@ -22,8 +22,8 @@ below is table containing sample of the 32 column, there are multiple columns th
 * a sample of data set:
 
 | hotel |	is_canceled	| lead_time | arrival_date_year |	arrival_date_month |	arrival_date_day_of_month |	stays_in_weekend_nights	| stays_in_week_nights	| adults	|	days_in_waiting_list | required_car_parking_spaces |	total_of_special_requests	 | reservation_status |	reservation_status_date |
-| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |  ------------- | ------------- |
-| Resort Hotel	| 0	| 12	| 2015 | July |	3 |	0	| 1	| 2	| 0 |	0	|	Check-Out	| 2015-07-04 |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |  ------------- | ------------- | ------------- |
+| Resort Hotel	| 0	| 12	| 2015 | July |	3 |	0	| 1	| 2	| 0 |	0	|	0 | Check-Out	| 2015-07-04 |
 
 ### If modeling, what will you predict as your target?
 the predict target will be the is_canceled.

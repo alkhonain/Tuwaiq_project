@@ -21,4 +21,9 @@ you can find the [Dataset here](https://github.com/alkhonain/Tuwaiq_project/blob
 
 
 ## Algorithms
+## Tools
+- Numpy and Pandas for data manipulation
+- Scikit-learn for modeling
+- Matplotlib, Seaborn and Plotly for plotting
+- Power BI for interactive visualizations
 

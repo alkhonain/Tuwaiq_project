@@ -16,6 +16,9 @@ Features that may be confused:
 * deposit_type, Indication on if the customer made a deposit to guarantee the booking. This variable can assume three categories: No Deposit – no deposit was made; Non Refund – a deposit was made in the value of the total stay cost; Refundable – a deposit was made with a value under the total cost of stay.
 * previous_cancellations and previous_bookings_not_canceled, which are number representing the previous cancellations/bookings not canceled by the customer.
 
+you can find the [Dataset here](https://github.com/alkhonain/Tuwaiq_project/blob/main/project/project_dataset.csv)
+
+
 
 ## Algorithms
 

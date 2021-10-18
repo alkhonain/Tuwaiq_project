@@ -3,7 +3,7 @@ abdulaziz alkhonain
 
 
 ## Abstract
-The goal of this project was to use classification models to predict wither the book is going to be cancelled or not depending on number of features to help the hoteles wither the book is most likly to cancel or not. This data set contains booking information for a city hotel and a resort hotel, and includes information such as when the booking was made, length of stay, the number of adults, children, and/or babies, and the number of available parking spaces, among other things. [data source]('https://www.kaggle.com/jessemostipak/hotel-booking-demand')
+The goal of this project was to use classification models to predict wither the book is going to be cancelled or not depending on number of features to help the hoteles wither the book is most likly to cancel or not. This data set contains booking information for a city hotel and a resort hotel, and includes information such as when the booking was made, length of stay, the number of adults, children, and/or babies, and the number of available parking spaces, among other things. you can find the [data source here](https://www.kaggle.com/jessemostipak/hotel-booking-demand)
 
 ## Data
 he dataset contains 119,390 books with 32 features for each, the features were spareted half of them were numerical, most of them are discrete, and the other is categorical. 

@@ -3,9 +3,19 @@ abdulaziz alkhonain
 
 
 ## Abstract
+
 The goal of this project was to use classification models to predict wither the book is going to be cancelled or not depending on number of features to help the hoteles wither the book is most likly to cancel or not. This data set contains booking information for a city hotel and a resort hotel, and includes information such as when the booking was made, length of stay, the number of adults, children, and/or babies, and the number of available parking spaces, among other things. you can find the [data source here](https://www.kaggle.com/jessemostipak/hotel-booking-demand)
 
+
+## Project Components
+
+- [Proposal](https://github.com/alkhonain/Tuwaiq_project/blob/main/Proposal/Proposal.md)
+- [MVP](https://github.com/alkhonain/Tuwaiq_project/blob/main/mvp/mvp.md)
+- [Project](https://github.com/alkhonain/Tuwaiq_project/tree/main/project)
+
+
 ## Data
+
 he dataset contains 119,390 books with 32 features for each, the features were spareted half of them were numerical, most of them are discrete, and the other is categorical. 
 Features that may be confused:
 * Hotels, there is two type of hotels, Resort Hotel and City Hotel.
@@ -21,7 +31,9 @@ you can find the [Dataset here](https://github.com/alkhonain/Tuwaiq_project/blob
 
 
 ## Algorithms
+
 ## Tools
+
 - Numpy and Pandas for data manipulation
 - Scikit-learn for modeling
 - Matplotlib, Seaborn and Plotly for plotting
@@ -29,6 +41,7 @@ you can find the [Dataset here](https://github.com/alkhonain/Tuwaiq_project/blob
 
 
 ## Communication
+
 In addition to the slides and visuals presented, [Dashboard](https://app.powerbi.com/links/J0U_XkHnTo?ctid=f2e06d3e-47a5-424e-84d5-7818cd99b0fa&pbi_source=linkShare) that present the dataset interactively 
 
 <img src="project_dashboard-1.jpg" width=800>

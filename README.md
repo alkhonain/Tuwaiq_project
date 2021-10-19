@@ -30,5 +30,6 @@ you can find the [Dataset here](https://github.com/alkhonain/Tuwaiq_project/blob
 
 ## Communication
 In addition to the slides and visuals presented, [Dashboard](https://app.powerbi.com/links/J0U_XkHnTo?ctid=f2e06d3e-47a5-424e-84d5-7818cd99b0fa&pbi_source=linkShare) that present the dataset interactively 
-[](https://github.com/alkhonain/Tuwaiq_project/blob/main/project_dashboard.pdf)
+![](https://github.com/alkhonain/Tuwaiq_project/blob/main/project_dashboard.pdf)
+<img src="project_dashboard.pdf" width=500>
 

@@ -9,7 +9,7 @@ i have done the cleaning part and you can check that by visiting it [here](https
   ```python
 df.hist(figsize=(20,14))
 ```
-<img src="features.png" width=500>
+<img src="features.png" width=900>
 
 
   and then want to see how is months are affecting the cancelation by creating the below graph, which tells us what we need. but, i notice that there are no correlation of that.

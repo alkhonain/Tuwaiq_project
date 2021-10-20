@@ -34,7 +34,7 @@ you can find the [Dataset here](https://github.com/alkhonain/Tuwaiq_project/blob
 
 In the project I used nine models and select the best model of them, and before applying the model I have do some EDA that can be found in the notebook to figure out how to improve the result and from that I have done the preprocessing that also founded in the notebook which create some features from other to found the grate solution from simple model and the result I got in quite impressive, the following is the result I got from classification report:
 
-|              | precision|     recall|  f1-score|   support|
+|   asd | precision|     recall|  f1-score|   support|
 | ------------- | ------------- | ------------- | ------------- | ------------- |
          |0|       0.93|      0.98|      0.95|     14829|
            |1 |      0.96|      0.88|      0.92|      8869|

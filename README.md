@@ -36,9 +36,9 @@ In the project I used nine models and select the best model of them, and before 
 
 |              | precision|     recall|  f1-score|   support|
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-|          |0|       0.93|      0.98|      0.95|     14829|
+         |0|       0.93|      0.98|      0.95|     14829|
            |1 |      0.96|      0.88|      0.92|      8869|
-   |accuracy|           |           |     0.94|    23698|
+   |accuracy|           |           |     0.94|    23698|
     |macro avg |    0.95|      0.93 |     0.94|    23698|
     |weighted avg|   0.94|      0.94  |   0.94|     23698|
 ---
